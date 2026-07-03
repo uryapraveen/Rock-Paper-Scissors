@@ -1,5 +1,5 @@
 # Rock Paper Scissors
-
+**🔗 Live demo:** [rock-paper-scissors-kappa-topaz.vercel.app](https://rock-paper-scissors-kappa-topaz.vercel.app/)
 A browser-based Rock Paper Scissors game built with vanilla HTML, CSS, and JavaScript — play against the computer using keyboard shortcuts, track your win/loss/tie record, or let it autoplay.
 
 ## Features
