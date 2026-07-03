@@ -26,11 +26,11 @@ function playGame(playerChoice) {
         (playerChoice === 'paper' && computerRandom === 'rock') ||
         (playerChoice === 'scissor' && computerRandom === 'paper')
     ) {
-        document.getElementById('result').textContent = 'YOU WON! 🎉';
+        document.getElementById('result').textContent = 'YOU WON! ';
         Won++;
     } 
     else {
-        document.getElementById('result').textContent = 'YOU LOSE! 😢';
+        document.getElementById('result').textContent = 'YOU LOSE! ';
         Loss++;
     }
 
